@@ -1,21 +1,21 @@
-# **Finding Lane Lines on the Road** 
-
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
+## P1. Finding Lane Lines on the Road
+## Joe Cymerman
+## 9 June 2018
 
 ---
-
-**Finding Lane Lines on the Road**
 
 The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
-
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: ./test_images_output/solidWhiteCurve.jpg "Solid White Curve"
+[image2]: ./test_images_output/solidWhiteRight.jpg "Solid White Right"
+[image3]: ./test_images_output/solidYellowCurve.jpg "Solid Yellow Curve"
+[image4]: ./test_images_output/solidYellowCurve2.jpg "Solid Yellow Curve 2"
+[image5]: ./test_images_output/solidYellowLeft.jpg "Solid Yellow Left"
+[image6]: ./test_images_output/whiteCarLaneSwitch.jpg "White Car Lane Switch"
 
 ---
 
